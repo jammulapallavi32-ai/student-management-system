@@ -37,4 +37,4 @@ Student_Management_System/
    ```
 
 ## Author
-Pallavi
+Pallavi Jammula
